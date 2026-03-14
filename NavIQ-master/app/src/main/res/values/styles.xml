@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#000B4E</item>
+        <item name="colorPrimaryVariant">#000000</item>
+        <item name="colorOnPrimary">#6CF436</item>
+
+        <!-- Surface and backgrounds -->
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#000000</item>
+
+        <!-- Force all primary text (headlines, titles) to black -->
+        <item name="android:textColorPrimary">#000000</item>
+        <!-- Force all secondary text (body, subtitles) to black -->
+        <item name="android:textColorSecondary">#000000</item>
+        <!-- Force all hints and prompt text to black -->
+        <item name="android:textColorHint">#000000</item>
+    </style>
+</resources>
